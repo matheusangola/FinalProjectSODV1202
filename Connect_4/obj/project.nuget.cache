@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d63sA4+1FK98VcZInqkxe1TZ4bbcDDj59Wi29ktLtxQWA/YxKGOtkC2GB7enq5tcY4cqD7DSvwl3eMvEVSvXNA==",
+  "success": true,
+  "projectFilePath": "/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/Connect_4.csproj",
+  "expectedPackageFiles": [
+    "/Users/matheus/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/matheus/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/matheus/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
