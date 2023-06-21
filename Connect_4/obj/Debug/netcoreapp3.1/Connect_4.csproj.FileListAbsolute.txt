@@ -1,0 +1,14 @@
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/bin/Debug/netcoreapp3.1/Connect_4
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/bin/Debug/netcoreapp3.1/Connect_4.deps.json
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/bin/Debug/netcoreapp3.1/Connect_4.runtimeconfig.json
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/bin/Debug/netcoreapp3.1/Connect_4.runtimeconfig.dev.json
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/bin/Debug/netcoreapp3.1/Connect_4.dll
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/bin/Debug/netcoreapp3.1/Connect_4.pdb
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.csproj.AssemblyReference.cache
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.AssemblyInfoInputs.cache
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.AssemblyInfo.cs
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.csproj.CoreCompileInputs.cache
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.dll
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.pdb
+/Users/matheus/GitHub/FinalProjectSODV1202/Connect_4/obj/Debug/netcoreapp3.1/Connect_4.genruntimeconfig.cache
